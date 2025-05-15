@@ -1,0 +1,6 @@
+Shortest distances from node 0:
+To 0: 0
+To 1: 2
+To 2: 3
+To 3: 7
+To 4: 6
