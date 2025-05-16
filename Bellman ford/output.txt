@@ -1,0 +1,6 @@
+Shortest distances from source 0:
+Node 0: 0
+Node 1: 5
+Node 2: 6
+Node 3: 6
+Node 4: 7
